@@ -1,4 +1,4 @@
-class PolyTreeNode
+class TreeNodes
   include Searchable
 
   attr_accessor :value, :parent
